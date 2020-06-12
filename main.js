@@ -88,7 +88,7 @@ let chatMessages = [{
 },
 {
   name: "ms12",
-  msg: "https://giftcard.com.ua/",
+  msg: "https://site.com.ua/",
   delay: 300,
   align: "left",
   showTime: true,
